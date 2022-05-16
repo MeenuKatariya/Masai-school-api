@@ -1,0 +1,58 @@
+#container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    /* border: 1px solid black; */
+    gap:50px;
+    height:600px;
+    width: 800px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+#signup{
+    /* border: 1px solid red; */
+    padding: 30px;
+    
+}
+#data{
+    /* border: 1px solid blue; */
+    padding: 10px;
+    text-align: center;
+
+}
+#data input{
+    width: 100%;
+    text-align: center;
+}
+
+#datas{
+    /* border: 1px solid blue; */
+    padding: 10px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+#datas input{
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
